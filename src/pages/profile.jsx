@@ -64,7 +64,7 @@ return alert("Name and Photo URL cannot be empty!");
 
     <p className="text-gray-300 mb-4 text-center">Email: {user.email}</p>
 
-        {/* Update Button */}
+      
     <button
     onClick={handleUpdate}
       disabled={loading}
