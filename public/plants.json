@@ -1,0 +1,74 @@
+ [
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://i.postimg.cc/example1.png",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Decor",
+    "price": 35,
+    "rating": 4.5,
+    "availableStock": 7,
+    "careLevel": "Medium",
+    "description": "A popular indoor tree with large violin-shaped leaves.",
+    "image": "https://i.postimg.cc/4.png",
+    "providerName": "GreenHouse Co."
+  },
+  {
+    "plantId": 3,
+    "plantName": "Peace Lily",
+    "category": "Air Purifier",
+    "price": 20,
+    "rating": 4.6,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "Beautiful white blooms and excellent at removing toxins.",
+    "image": "https://i.postimg.cc/3.png",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Monstera",
+    "category": "Decor",
+    "price": 28,
+    "rating": 4.7,
+    "availableStock": 5,
+    "careLevel": "Medium",
+    "description": "Large glossy leaves with natural splits, trendy plant for home decor.",
+    "image": "https://i.postimg.cc/1.png",
+    "providerName": "Plantify"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Aloe Vera",
+    "category": "Medicinal",
+    "price": 15,
+    "rating": 4.9,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "Low-maintenance succulent with medicinal properties.",
+    "image": "https://i.postimg.cc/example5.png",
+    "providerName": "Succulent Studio"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 12,
+    "rating": 4.4,
+    "availableStock": 18,
+    "careLevel": "Easy",
+    "description": "Great air purifier, easy to grow, produces baby plantlets.",
+    "image": "https://i.postimg.cc/example6.png",
+    "providerName": "UrbanGreen Studio"
+  }
+]
