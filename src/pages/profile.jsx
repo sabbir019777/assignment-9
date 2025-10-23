@@ -46,7 +46,7 @@ return alert("Name and Photo URL cannot be empty!");
    className="w-28 h-28 rounded-full mb-4 mx-auto border-4 border-purple-500"
   />
 
-        {/* Editable Fields */}
+       
    <input
      type="text"
     value={name}
