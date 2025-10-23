@@ -39,7 +39,7 @@ return alert("Name and Photo URL cannot be empty!");
 <div className="w-full max-w-md p-6 border rounded-2xl shadow-lg bg-gray-800">
   <h2 className="text-3xl font-bold mb-6 text-white text-center"> My Profile </h2>
 
-        {/* Profile Image */}
+      
    <img
      src={photoURL || "https://via.placeholder.com/100"}
      alt="profile"
